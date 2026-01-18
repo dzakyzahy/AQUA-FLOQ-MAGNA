@@ -73,5 +73,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <sub>Built with 💙 by OKTAN ITB for ISOTERM 2026</sub>
+  <sub>Built with 💙 by zahy for OKTAN ITB ISOTERM 2026</sub>
 </div>
